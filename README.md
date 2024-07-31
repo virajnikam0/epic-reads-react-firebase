@@ -2,33 +2,27 @@
 
 ### IMP links
 - Hosting: 
-    - https://epicreads.vercel.app/
+    - URL
+        - https://epicread.vercel.app/
+    - Environment Variable in vercel
+        - https://vercel.com/viraj-nikams-projects/epic-reads-react-firebase/settings/environment-variables
+    - Vercel - manage project
+        - https://vercel.com/viraj-nikams-projects/epic-reads-react-firebase
+
 
 - Github Repo: 
     - https://github.com/virajnikam0/epic-reads-react-firebase
 
 ---
-- Firebase(Firestore): 
-    - https://console.firebase.google.com/project/curo-3c17b/firestore/data
-
 - Google Form (To insert articles by category into firestore):
     - Edit form structure: 
-        - https://docs.google.com/forms/d/14NJQ1IuFfDhL3uzpzCdqtn6GKlds0dxFdb-g_iokC2c/edit
+        - https://docs.google.com/forms/d/1_DrROI-Hy-a1NkvDHKhtl1xN4WpugzPlNimxvO0fHCU/edit
     - Use to insert data
-        - https://forms.gle/LAMuNMoZkuJ2MvzdA
+        - https://forms.gle/eh2FvKS8ZdtvdpPz9
 
 - Zapier (integration of firestore with google forms)
-    - https://zapier.com/editor/203071363/published
-
----
-
-
-
-### TODO
-- project working
-- zapier ac + setup
-- firebase ac + setup
-- google form + setup
-- hosting vercel
-- readme changes
+    - https://zapier.com/editor/250787541/published
+    
+- Firebase(Firestore): 
+    - https://console.firebase.google.com/project/epic-reads-26403/firestore/databases/-default-/data
 ---
