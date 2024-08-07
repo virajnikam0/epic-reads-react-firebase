@@ -1,5 +1,4 @@
-## CURO
-
+## Epic-Reads
 ### UI
 ![image](https://github.com/user-attachments/assets/7c93b0ac-c509-433c-824e-8baf8adda72e)
 
